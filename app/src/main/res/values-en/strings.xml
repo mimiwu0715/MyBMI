@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">MyBMI</string>
+<string name="bmi_hello">Hello!BMI</string>
+<string name="bmi_height">Height (cm)</string>
+<string name="bmi_weight">Weight (kg)</string>
+<string name="bmi_btn">Calculate the value of BMI</string>
+<string name="bmi_result">You value of BMI is</string>
+<string name="advice_light">You should eat more</string>
+<string name="advice_average">Very good size!</string>
+<string name="advice_heavy">You should have a diet</string>
+</resources>
